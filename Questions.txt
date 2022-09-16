@@ -1,0 +1,13 @@
+1. How heavily does a players physical aspects affect their score?
+	- I.E. Do smaller and more mobile players have higher scores?
+	- Do older palyers affect their score?
+		-Due to experience?
+	- Do bigger players with power make more goals therefore increasing their score.
+	- Difference between players useing their left foot vs right foot?
+2. Data above is skewed because goal keepers tend to be the bigger players.
+	- Remove GK (Goal Keepers)
+	- Incorrect, since we are scaling with player score, Goal Keepers are correctly scored.
+
+-----------------------------------------------------------------------------
+Notes:
+Position references https://www.guidetofootball.com/tactics/playing-positions/
